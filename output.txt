@@ -1,3 +1,1 @@
-Maximum Value in array : 6
-Minimum Value in array : 1
-Average value in array : 3.50
+Too big
