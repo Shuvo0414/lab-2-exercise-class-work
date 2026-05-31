@@ -1,1 +1,2 @@
-Invalid input
+Sum Result : 55
+Total Even Number: 6
