@@ -1,2 +1,3 @@
-Sum Result : 55
-Total Even Number: 6
+Maximum Value in array : 6
+Minimum Value in array : 1
+Average value in array : 3.50
