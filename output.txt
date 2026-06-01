@@ -1,1 +1,1 @@
-Too big
+Sum of main diagonal = 15
